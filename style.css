@@ -1,0 +1,58 @@
+#top{
+    padding: 12px 0;
+    text-align: center;
+    background-color: #4C4766;
+    color: white;
+}
+
+.navbar{
+    box-shadow: 1px 1px 4px 1px black   ;
+    font-weight: 600;
+}
+
+.navmain{
+    display: flex;
+
+
+}
+
+.navu{
+    width: 33% !important;
+    padding-left: 13px;
+}
+
+#allbirds{
+    width:50% !important;
+    text-align:center;
+}
+
+.navulst{
+    width: 33% !important;
+    text-align: end;
+    display: flex;
+justify-content: end;   
+padding-right: 22px !important;
+    
+}
+
+.navbar-nav > li {
+    display: flex;
+ padding-left: 13px;
+}
+
+:hover.face{
+color: rgb(0, 119, 255);
+}
+:hover.twi{
+    color: rgb(0, 0, 0);
+    }
+    :hover.goo{
+        color: rgb(206, 61, 3);
+        }
+        :hover.inst{
+            color: rgb(250, 0, 208);
+            }
+            :hover.linkd{
+                color: rgb(0, 119, 255);
+                }
+             
